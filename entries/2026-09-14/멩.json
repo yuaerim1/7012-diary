@@ -14,7 +14,15 @@
     "delivery": false
   },
   "reactions": {},
-  "comments": [],
+  "comments": [
+    {
+      "id": "7cff33a7-19ed-420c-a535-e4eaa44bb0a2",
+      "author": "멩",
+      "text": "시발 위에거 기입 안하면 걍 아무것도 안한 사람 된다고...? 황당하네",
+      "image": null,
+      "createdAt": "2026-09-14T16:07:29.719Z"
+    }
+  ],
   "createdAt": "2026-09-14T16:07:06.635Z",
-  "updatedAt": "2026-09-14T16:07:08.882Z"
+  "updatedAt": "2026-09-14T16:07:29.720Z"
 }
